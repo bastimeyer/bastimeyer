@@ -26,7 +26,7 @@
 <section>
   <h2><img width="28" height="28" valign="text-bottom" alt="speech balloon" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"> Contact</h2>
   <ul>
-    <li><a href="https://github.com/bastimeyer">Email</a> (see Github profile)</li>
+    <li><a href="https://github.com/bastimeyer">Email</a> (see Github profile - PGP <a href="https://raw.githubusercontent.com/bastimeyer/bastimeyer/master/F851E2DF79709D0C7069991DFA3EE780F07CE384.asc"><code>FA3EE780F07CE384</code></a>)</li>
     <li><a href="https://gitter.im/bastimeyer">Gitter</a> (<code>@bastimeyer</code>)</li>
     <li><a href="https://matrix.to/#/@bastimeyer:matrix.org">Matrix</a> (<code>@bastimeyer:matrix.org</code>)</li>
   </ul>
