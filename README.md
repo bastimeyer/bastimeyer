@@ -38,6 +38,7 @@
     <li><a href="https://github.com/users/bastimeyer/sponsorship">Github Sponsors</a></li>
     <li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUCGRLVALHS8C&item_name=Github">Paypal</a></li>
     <li><a href="https://paypal.me/bastimeyer123">Paypal.me</a> (<code>bastimeyer123</code>)</li>
+    <li><a href="https://liberapay.com/bastimeyer">Liberapay</a></li>
     <li><a href="https://www.blockchain.com/btc/address/1EZg8eBz4RdPb8pEzYD9JEzr9Fyitzj8j8">Bitcoin</a> (<code>1EZg8eBz4RdPb8pEzYD9JEzr9Fyitzj8j8</code>)</li>
   </ul>
   <p>
