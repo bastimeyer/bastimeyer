@@ -12,8 +12,7 @@
   <h2><img width="28" height="28" valign="text-bottom" alt="speech balloon" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"> Contact</h2>
   <ul>
     <li><a href="https://github.com/bastimeyer">Email</a> (see Github profile - PGP <a href="https://raw.githubusercontent.com/bastimeyer/bastimeyer/master/F851E2DF79709D0C7069991DFA3EE780F07CE384.asc"><code>FA3EE780F07CE384</code></a>)</li>
-    <li><a href="https://matrix.to/#/@bastimeyer:matrix.org">Matrix</a> (<code>@bastimeyer:matrix.org</code>)</li>
-    <li><a href="https://matrix.to/#/@bastimeyer-5556475215522ed4b3e0776f:gitter.im">Gitter</a> (<code>@bastimeyer-5556475215522ed4b3e0776f:gitter.im</code>)
+    <li><a href="https://matrix.to/#/@bastimeyer-5556475215522ed4b3e0776f:gitter.im">Matrix (Gitter)</a> (<code>@bastimeyer-5556475215522ed4b3e0776f:gitter.im</code>)
   </ul>
   <p>Feel free to contact me via the methods mentioned above, but please keep bug reports and/or questions about my projects on their respective issue trackers. Thank you!</p>
   <h2><img width="28" height="28" valign="text-bottom" alt="red heart" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> Support</h2>
