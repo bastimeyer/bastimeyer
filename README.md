@@ -7,21 +7,6 @@
     <li>GNU/Linux</li>
     <li>esports</li>
   </ul>
-  <p>
-    <img alt="Linux" src="https://img.shields.io/badge/-GNU%2FLinux-fcc624?logo=linux&logoColor=fff&style=for-the-badge">
-    <img alt="git" src="https://img.shields.io/badge/-git-f05032?logo=git&logoColor=fff&style=for-the-badge">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff&style=for-the-badge">
-    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4eaa25?logo=gnu-bash&logoColor=fff&style=for-the-badge">
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-336633?logo=Node.js&logoColor=fff&style=for-the-badge">
-    <img alt="Ember" src="https://img.shields.io/badge/-ember-e04e39?logo=Ember.js&logoColor=fff&style=for-the-badge">
-    <img alt="webpack" src="https://img.shields.io/badge/-webpack-1d78c1?logo=webpack&logoColor=fff&style=for-the-badge">
-    <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2c8ebb?logo=yarn&logoColor=fff&style=for-the-badge">
-    <img alt="Web technologies" src="https://img.shields.io/badge/-HTML5+JS+CSS-005a9c?logo=w3c&logoColor=fff&style=for-the-badge">
-    <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479a1?logo=mysql&logoColor=fff&style=for-the-badge">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=fff&style=for-the-badge">
-    <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088ff?logo=github-actions&logoColor=fff&style=for-the-badge">
-    <img alt="TravisCI" src="https://img.shields.io/badge/-Travis_CI-3eaaaf?logo=travis-ci&logoColor=fff&style=for-the-badge">
-  </p>
 </section>
 <section>
   <h2><img width="28" height="28" valign="text-bottom" alt="speech balloon" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"> Contact</h2>
