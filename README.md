@@ -30,8 +30,6 @@
 </section>
 <section>
   <h2><img width="28" height="28" valign="text-bottom" alt="folded hands" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png"> Thank you</h2>
-  <ul>
-    <li><a href="https://www.jetbrains.com/">Jetbrains</a>, for sponsoring an <a href="https://www.jetbrains.com/opensource/">open source license</a> for their IDEs (PyCharm &amp; WebStorm).</li>
-    <li><a href="https://www.syntevo.com/">syntevo</a>, for sponsoring an <a href="https://www.syntevo.com/smartgit/">open source license</a> for their SmartGit software.
-  </ul>
+  <p><a href="https://www.jetbrains.com/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg" alt="Jetbrains" style="width:12em;height:2.685em"></a><br>for sponsoring an <a href="https://www.jetbrains.com/opensource/">open source license</a> for their IDEs (PyCharm &amp; WebStorm).</p>
+  <p><a href="https://www.syntevo.com/"><img src="https://www.syntevo.com/assets/images/logos/syntevo-0b0da4ee.svg" alt="Syntevo" style="width:12em;height:1.802em"></a><br>for sponsoring an <a href="https://www.syntevo.com/smartgit/">open source license</a> for their SmartGit software.</p>
 </section>
