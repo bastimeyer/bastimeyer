@@ -1,6 +1,6 @@
 <section>
-  <h1><img width="40" height="40" valign="text-bottom" alt="bear" src="https://github.githubassets.com/images/icons/emoji/unicode/1f43b.png"> Welcome!</h1>
-  <p>Hi, my name is Sebastian, I'm from <img width="13" height="13" alt="Germany" src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png"> North Rhine-Westphalia / Germany, and I'm interested in the following things:</p>
+  <h1>&#x1f43b; Welcome!</h1>
+  <p>Hi, my name is Sebastian, I'm from &#x1f1e9;&#x1f1ea; North Rhine-Westphalia / Germany, and I'm interested in the following things:</p>
   <ul>
     <li>free open source software</li>
     <li>web technologies / development</li>
@@ -9,13 +9,13 @@
   </ul>
 </section>
 <section>
-  <h2><img width="28" height="28" valign="text-bottom" alt="speech balloon" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"> Contact</h2>
+  <h2>&#x1f4ac; Contact</h2>
   <ul>
     <li><a href="https://github.com/bastimeyer">Email</a> (see Github profile - PGP <a href="https://raw.githubusercontent.com/bastimeyer/bastimeyer/master/F851E2DF79709D0C7069991DFA3EE780F07CE384.asc"><code>FA3EE780F07CE384</code></a>)</li>
     <li><a href="https://matrix.to/#/@bastimeyer-5556475215522ed4b3e0776f:gitter.im">Matrix (Gitter)</a> (<code>@bastimeyer-5556475215522ed4b3e0776f:gitter.im</code>)
   </ul>
   <p>Feel free to contact me via the methods mentioned above, but please keep bug reports and/or questions about my projects on their respective issue trackers and discussion forums. Please note that I will not provide any support of any kind via email. Thank you!</p>
-  <h2><img width="28" height="28" valign="text-bottom" alt="red heart" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> Support</h2>
+  <h2>&#x2764;&#xfe0f; Support</h2>
   <ul>
     <li><a href="https://github.com/users/bastimeyer/sponsorship">Github Sponsors</a></li>
     <li><a href="https://www.paypal.com/donate/?hosted_button_id=YUCGRLVALHS8C&item_name=Github">Paypal</a></li>
@@ -29,7 +29,7 @@
   </p>
 </section>
 <section>
-  <h2><img width="28" height="28" valign="text-bottom" alt="folded hands" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png"> Thank you</h2>
+  <h2>&#x1f64f; Thank you</h2>
   <p><a href="https://www.jetbrains.com/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg" alt="Jetbrains" style="width:12em;height:2.685em"></a><br>for sponsoring an <a href="https://www.jetbrains.com/opensource/">open source license</a> for their IDEs (PyCharm &amp; WebStorm).</p>
   <p><a href="https://www.syntevo.com/"><img src="https://www.syntevo.com/assets/images/logos/syntevo-0b0da4ee.svg" alt="Syntevo" style="width:12em;height:1.802em"></a><br>for sponsoring an <a href="https://www.syntevo.com/smartgit/">open source license</a> for their SmartGit software.</p>
 </section>
